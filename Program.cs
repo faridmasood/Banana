@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Banana
 {
+    // Cool name
     public class Program
     {
         public static void Main(string[] args)
